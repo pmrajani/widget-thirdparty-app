@@ -10,7 +10,7 @@ class RectangleBanner extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: MediaQuery.of(context).size.width / 3,
+      height: 125,
       child: Swiper.children(
         autoplay: true,
         pagination: SwiperPagination(builder: DotSwiperPaginationBuilder(

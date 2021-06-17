@@ -16,22 +16,20 @@ class SquareCard extends StatelessWidget {
           child: Text("New Release",style: StyleData.header),
         ),
         Container(
-          height: MediaQuery.of(context).size.width / 2.5,
+          height: 150,
           child: ListView.builder(
             itemCount: cardData.length,
             scrollDirection: Axis.horizontal,
             itemBuilder: (context, index) {
-              return Container(
-                width: MediaQuery.of(context).size.width / 3,
-                padding: EdgeInsets.symmetric(horizontal: 5, vertical: 8),
-                child: RaisedButton(
-                  onPressed: () {},
-                  elevation: 0.5,
-                  color: Colors.white,
-                  shape: RoundedRectangleBorder(
-                      borderRadius: BorderRadius.circular(10)),
+              return Card(
+                elevation: 0.5,
+                shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(10)),
+                child: Container(
+                  width: 105,
+                  padding: EdgeInsets.symmetric(horizontal: 5, vertical: 15),
                   child: Column(
-                    mainAxisAlignment: MainAxisAlignment.center,
+                    mainAxisAlignment: MainAxisAlignment.start,
                     crossAxisAlignment: CrossAxisAlignment.center,
                     children: [
                       CircleAvatar(

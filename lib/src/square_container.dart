@@ -16,13 +16,13 @@ class SquareContainer extends StatelessWidget {
           child: Text("Discover",style: StyleData.header),
         ),
         Container(
-          height: MediaQuery.of(context).size.width / 3,
+          height: 130,
           child: ListView.builder(
               itemCount: cardData.length,
               scrollDirection: Axis.horizontal,
               itemBuilder: (context, index) {
                 return Container(
-                    width: MediaQuery.of(context).size.width / 3.8,
+                    width: 100,
                     padding: EdgeInsets.symmetric(horizontal: 5, vertical: 8),
                     child: Column(
                       mainAxisAlignment: MainAxisAlignment.start,
