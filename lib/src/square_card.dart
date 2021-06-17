@@ -16,7 +16,7 @@ class SquareCard extends StatelessWidget {
           child: Text("New Release",style: StyleData.header),
         ),
         Container(
-          height: 150,
+          height: 160,
           child: ListView.builder(
             itemCount: cardData.length,
             scrollDirection: Axis.horizontal,

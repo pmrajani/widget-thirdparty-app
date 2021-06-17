@@ -1,0 +1,171 @@
+{
+  "top_banner" : [
+    {
+      "image" : "https://s3-ap-southeast-1.amazonaws.com/bsy/iportal/images/zomato-banner-change_74B641A1E3AE1100D7015078982A3409.jpg"
+    },
+    {
+      "image" : "https://cdn.static-zoutons.com/images/originals/blog/uberArtboard_2_1613031194.png"
+    },
+    {
+      "image" : "https://d168jcr2cillca.cloudfront.net/uploadimages/coupons/5440-Dominos_Offers_Coupons.jpg"
+    }
+  ],
+  "middle_banner" : [
+    {
+      "image" : "https://cdn.static-zoutons.com/images/originals/blog/uberArtboard_5_1613031300.png"
+    },
+    {
+      "image" : "https://api.dominos.co.in/prod-olo-api/images/dynamicOffers/PIZZA_PASTA_PARTY_NORMAL_20200806.jpg"
+    },
+    {
+      "image" : "https://s3-ap-southeast-1.amazonaws.com/bsy/iportal/images/zomato-banner-change_74B641A1E3AE1100D7015078982A3409.jpg"
+    }
+  ],
+  "trending":[
+    {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/talkmedia-app.appspot.com/o/static%2Fic_launcher_round.png?alt=media&token=718c743b-d622-4688-a357-b3b47f312da3",
+      "title" : "QuikLAB",
+      "subtitle" : "A Rapid covid-19 Test",
+      "offer" : "Book your slot now"
+    },
+    {
+      "image" : "http://logok.org/wp-content/uploads/2018/09/Uber-icon-2016.png",
+      "title" : "Uber",
+      "subtitle" : "Want a ride? Only Uber",
+      "offer" : "Upto 10% off"
+    },
+    {
+      "image" : "https://static.wikia.nocookie.net/doawk/images/4/40/Pizza_Hut_logo.png/revision/latest/scale-to-width-down/185?cb=20190406051628",
+      "title" : "Pizza Hut",
+      "subtitle" : "Late Night hunger? Order at Pizza Hut",
+      "offer" : "10% off"
+    },
+    {
+      "image" : "https://media.consumeraffairs.com/files/cache/logos/mcdonalds_logo_widget_logo.png",
+      "title" : "McDonald’s",
+      "subtitle" : "Wanna Fries ? Get From McDonald’s",
+      "offer" : "Upto 10% off"
+    },
+    {
+      "image" : "https://www.deputy.com/uploads/2018/08/Screen-Shot-2018-08-08-at-12.19.36-PM-300x296.png",
+      "title" : "Starbucks",
+      "subtitle" : "Morning Coffee? Only From Starbucks",
+      "offer" : "Upto 10% off"
+    }
+  ],
+  "new_release": [
+    {
+      "image" : "https://media-cdn.tripadvisor.com/media/photo-s/09/4e/57/82/domino-s-pizza-flamingo.jpg",
+      "title" : "Dominos",
+      "subtitle" : "Hungry ? Order Pizzaa"
+    },
+    {
+      "image" : "http://logok.org/wp-content/uploads/2018/09/Uber-icon-2016.png",
+      "title" : "Uber",
+      "subtitle" : "Want a ride? Only Uber"
+    },
+    {
+      "image" : "https://techgirl.co.za/wp-content/uploads/2015/01/Logo-Square-Red-360px-X360px.png",
+      "title" : "Zomato",
+      "subtitle" : "Late Night hunger? Order From Zomato"
+    },
+    {
+      "image" : "https://media.consumeraffairs.com/files/cache/logos/mcdonalds_logo_widget_logo.png",
+      "title" : "McDonald’s",
+      "subtitle" : "Wanna Fries ? Get From McDonald’s"
+    },
+    {
+      "image" : "https://www.deputy.com/uploads/2018/08/Screen-Shot-2018-08-08-at-12.19.36-PM-300x296.png",
+      "title" : "Starbucks",
+      "subtitle" : "Morning Coffee? Only From Starbucks"
+    }
+  ],
+  "best_offers": [
+    {
+      "image" : "https://www.icicibank.com/managed-assets/images/offer-zone/mobile-banking/zomato-200-voucher-offer-m.jpg"
+    },
+    {
+      "image" : "https://www.icicibank.com/managed-assets/images/offer-zone/paylater/uber-paylater-offer-m.jpg"
+    },
+    {
+      "image" : "https://cdn-d8a8.kxcdn.com/storage/uploads/dominos-pizza-coupons.jpg"
+    },
+    {
+      "image" : "http://www.food-blog.co.za/wp-content/uploads/2020/03/Burger-King-App.jpg"
+    }
+  ],
+  "discover": [
+    {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/talkmedia-app.appspot.com/o/static%2Fic_launcher.png?alt=media&token=24608d22-7c35-49ce-b83b-dac1016f7bfc",
+      "title" : "Vaccine Card",
+      "subtitle" : "Check your vaccination card"
+    },
+    {
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/714vaW2G-ZL._SL1500_.jpg",
+      "title" : "PUBG",
+      "subtitle" : "Show your game"
+    },
+    {
+      "image" : "https://i.pinimg.com/originals/ae/d9/60/aed960e1dd85f84950e9671b8290da42.png",
+      "title" : "BYJU'S",
+      "subtitle" : "Learn more"
+    },
+    {
+      "image" : "https://www.pngitem.com/pimgs/m/377-3774350_ookla-speed-test-logo-hd-png-download.png",
+      "title" : "Speed Test",
+      "subtitle" : "Test your internet speed"
+    },
+    {
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/714vaW2G-ZL._SL1500_.jpg",
+      "title" : "PUBG",
+      "subtitle" : "Show your game"
+    },
+    {
+      "image" : "https://i.pinimg.com/originals/ae/d9/60/aed960e1dd85f84950e9671b8290da42.png",
+      "title" : "BYJU'S",
+      "subtitle" : "Learn more"
+    }
+  ],
+  "categories":[
+    {
+      "image" : "https://i.pinimg.com/474x/50/3b/55/503b558e7a54ee31cb1efb555900821b.jpg",
+      "title" : "Food Ordering",
+      "color": "#6e0000"
+    },
+    {
+      "image" : "https://image.freepik.com/free-vector/travel-transportation-vehicles_23-2147491577.jpg",
+      "title" : "Travel & Transport",
+      "color": "#41aeb5"
+    },
+    {
+      "image" : "https://i.pinimg.com/originals/18/db/89/18db89f7dc13db4f0fc7bfc5bf240f9b.jpg",
+      "title" : "Healthcare",
+      "color": "#97c0ae"
+    },
+    {
+      "image" : "https://previews.123rf.com/images/yupiramos/yupiramos1509/yupiramos150905522/44820148-electrician-concept-design-vector-illustration-eps10-graphic.jpg",
+      "title" : "Utility & Services",
+      "color": "#95d0d8"
+    },
+    {
+      "image" : "https://cdn.nohat.cc/image_by_url.php?url=https://image.freepik.com/free-vector/multimedia-background-design_1325-79.jpg",
+      "title" : "Entertainment",
+      "color": "#e2dfb4"
+    },
+    {
+      "image" : "https://image.freepik.com/free-vector/music-colorful-illustration_24908-57097.jpg",
+      "title" : "Music",
+      "color": "#4c1d51"
+    },
+    {
+      "image" : "https://www.image-illustration.net/wp-content/uploads/2017/01/people-gaming-computer-video-game-isometric-vector-illustration.jpg",
+      "title" : "Video Games",
+      "color": "#ec73b8"
+    },
+    {
+      "image" : "https://image.freepik.com/free-vector/financial-data-analysis-businessman-with-magnifying-glass-is-looking-financial-reports_110633-195.jpg",
+      "title" : "Finance",
+      "color": "#00a4b8"
+    }
+  ]
+}
